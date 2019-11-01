@@ -1,2 +1,2 @@
-## Welcome to GitHub Pa
-hw1 is here [hw1](Assignment1.html)
+You can find my assignment in html format here [Assignment1.html](Assignmnet1.html)
+You can find my assignment in Jupyter Notebook here [Assignment1.ipynb](Assignmnet1.ipynb)
